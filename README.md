@@ -1,14 +1,3 @@
-# 📘 College Result Management System
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2523ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-A comprehensive web application built with **Streamlit** for managing, analyzing, and visualizing college examination results.  
-This system automates the processing of PDF result documents and provides **powerful analytics tools** for educators and administrators.
-
----
 
 ## 🎯 Features
 
@@ -166,4 +155,5 @@ showSidebarNavigation = false
 [runner]
 magicEnabled = false
 ```
+
 
