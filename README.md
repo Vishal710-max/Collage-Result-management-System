@@ -167,13 +167,3 @@ showSidebarNavigation = false
 magicEnabled = false
 ```
 
-### 🌍 Environment Variables
-
-```bash
-# Set maintenance mode
-export MAINTENANCE_MODE=false
-
-# Set default theme
-export DEFAULT_THEME=light
-```
-
