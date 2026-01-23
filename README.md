@@ -24,7 +24,7 @@ This system automates PDF result processing and provides powerful analytics tool
 - [Development](#-development)
 - [Contributing](#-contributing)
 - [License & Acknowledgements](#-license--acknowledgements)
-- [Contact](#contact)
+- [Contact](#-contact)
 
 ---
 
@@ -328,6 +328,7 @@ Please keep changes focused and testable for easier review.
 ---
 
 Happy analyzing — make data-driven decisions for better academic outcomes!
+
 
 
 
