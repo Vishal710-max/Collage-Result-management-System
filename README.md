@@ -327,9 +327,22 @@ Please keep changes focused and testable for easier review.
 
 ---
 
-Happy analyzing — make data-driven decisions for better academic outcomes!
+## ⭐ Show Your Support
 
+If you found this project helpful, please give it a ⭐️!
 
+<div align="center">
+
+**Made with ❤️ by Vishal Bhingarde**
+
+[![Star this repo](https://img.shields.io/github/stars/Vishal710-max/Collage-Result-management-System?style=social)](https://github.com/Vishal710-max/Collage-Result-management-System)
+[![Fork this repo](https://img.shields.io/github/forks/Vishal710-max/Collage-Result-management-System?style=social)](https://github.com/Vishal710-max/Collage-Result-management-System/fork)
+
+</div>
+
+---
+
+<div align="center">
 
 
 
