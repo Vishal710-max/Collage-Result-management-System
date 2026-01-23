@@ -311,19 +311,6 @@ Please keep changes focused and testable for easier review.
 ---
 
 ## 📬 Contact
-Created by Vishal Bhingarde . For questions or suggestions, open an issue or a pull request in this repository.
-
-- 📬 Contact Me on 
-
-- 📧 Email: bhingardevishal5@gmail.com
-
-- 💼 LinkedIn: www.linkedin.com/in/vishal-bhingarde-bb23a2376
-
-- 🐙 GitHub: [github.com/ ](https://github.com/Vishal710-max)
-
----
-
-## 👨‍💻 Author
 
 <div align="center">
 
@@ -341,6 +328,7 @@ Created by Vishal Bhingarde . For questions or suggestions, open an issue or a p
 ---
 
 Happy analyzing — make data-driven decisions for better academic outcomes!
+
 
 
 
