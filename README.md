@@ -334,12 +334,14 @@ Created by Vishal Bhingarde . For questions or suggestions, open an issue or a p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vishal-bhingarde-bb23a2376)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Vishal710-max)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhingardevishal5@gmail.com)
 
 </div>
 
 ---
 
 Happy analyzing — make data-driven decisions for better academic outcomes!
+
 
 
 
