@@ -322,6 +322,24 @@ Created by Vishal Bhingarde . For questions or suggestions, open an issue or a p
 - 🐙 GitHub: [github.com/ ](https://github.com/Vishal710-max)
 
 ---
+
+## 👨‍💻 Author
+
+<div align="center">
+
+### **Vishal Bhingarde**
+
+*React Developer | DSA Learner | Frontend Enthusiast*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vishal-bhingarde-bb23a2376)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Vishal710-max)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://your-portfolio.com)
+
+</div>
+
+---
+
 Happy analyzing — make data-driven decisions for better academic outcomes!
+
 
 
