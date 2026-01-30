@@ -54,16 +54,16 @@ This system automates PDF result processing and provides powerful analytics tool
 ## 🖼️ Demo / Screenshots
 
 <div align="center">
-  <table>
+ <table>
     <tr>
       <td>
-        <a href="assets/images/dashboard.png">
-          <img src="assets/images/dashboard.png" alt="Performance dashboard" width="520" />
+        <a href="assets/images/Home.png">
+          <img src="assets/images/Home.png" alt="Performance dashboard" width="520" />
         </a>
       </td>
       <td>
-        <a href="assets/images/upload.png">
-          <img src="assets/images/upload.png" alt="Upload PDF" width="520" />
+        <a href="assets/images/dashboard.png">
+          <img src="assets/images/dashboard.png" alt="Upload PDF" width="520" />
         </a>
       </td>
     </tr>
@@ -78,8 +78,8 @@ This system automates PDF result processing and provides powerful analytics tool
         </a>
       </td>
       <td>
-        <a href="assets/images/subject-analysis.png">
-          <img src="assets/images/subject-analysis.png" alt="Subject analysis" width="520" />
+        <a href="assets/images/pass-fail.png">
+          <img src="assets/images/pass-fail.png" alt="Subject analysis" width="520" />
         </a>
       </td>
     </tr>
@@ -343,6 +343,7 @@ If you found this project helpful, please give it a ⭐️!
 ---
 
 <div align="center">
+
 
 
 
