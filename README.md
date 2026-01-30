@@ -68,8 +68,8 @@ This system automates PDF result processing and provides powerful analytics tool
       </td>
     </tr>
     <tr>
-      <td align="center"><strong>Figure 1.</strong> Performance dashboard</td>
-      <td align="center"><strong>Figure 2.</strong> Upload PDF module</td>
+      <td align="center"><strong>Figure 1.</strong>Home Page</td>
+      <td align="center"><strong>Figure 2.</strong> Performance dashboard</td>
     </tr>
     <tr>
       <td>
@@ -85,7 +85,7 @@ This system automates PDF result processing and provides powerful analytics tool
     </tr>
     <tr>
       <td align="center"><strong>Figure 3.</strong> Top students</td>
-      <td align="center"><strong>Figure 4.</strong> Subject-wise analysis</td>
+      <td align="center"><strong>Figure 4.</strong> Pass - Fail analysis</td>
     </tr>
   </table>
 </div>
@@ -343,6 +343,7 @@ If you found this project helpful, please give it a ⭐️!
 ---
 
 <div align="center">
+
 
 
 
