@@ -11,7 +11,7 @@ This system automates PDF result processing and provides powerful analytics tool
 ---
 
 ## Table of contents
-- [Features](#features)
+- [Features](#-features)
 - [Demo / Screenshots](#demo--screenshots)
 - [Tech stack](#tech-stack)
 - [Requirements](#requirements)
@@ -343,6 +343,7 @@ If you found this project helpful, please give it a ⭐️!
 ---
 
 <div align="center">
+
 
 
 
