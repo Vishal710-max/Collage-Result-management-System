@@ -13,7 +13,7 @@ This system automates PDF result processing and provides powerful analytics tool
 ## Table of contents
 - [Features](#-features)
 - [Demo / Screenshots](#-demo--screenshots)
-- [Tech stack](#tech-stack)
+- [Tech stack](#-tech-stack)
 - [Requirements](#requirements)
 - [Install & Run](#install--run)
 - [Quick start](#quick-start)
@@ -92,7 +92,7 @@ This system automates PDF result processing and provides powerful analytics tool
 
 ---
 
-## 🛠️Tech stack
+## 🛠️ Tech stack
 - Frontend: Streamlit
 - Language: Python 3.8+
 - Data extraction: pdfplumber (PDF parsing)
@@ -343,6 +343,7 @@ If you found this project helpful, please give it a ⭐️!
 ---
 
 <div align="center">
+
 
 
 
