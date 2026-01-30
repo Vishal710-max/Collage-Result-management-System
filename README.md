@@ -11,26 +11,26 @@ This system automates PDF result processing and provides powerful analytics tool
 ---
 
 ## Table of contents
-- [Features](#-features)
+- [Features](#features)
 - [Demo / Screenshots](#demo--screenshots)
-- [Tech stack](#-tech-stack)
-- [Requirements](#-requirements)
-- [Install & Run](#-install--run)
-- [Quick start](#-quick-start)
-- [Usage notes](#-usage-notes)
-- [Project structure](#-project-structure)
-- [Module documentation](#-module-documentation)
-- [Configuration](#-configuration)
-- [Development](#-development)
-- [Contributing](#-contributing)
-- [License & Acknowledgements](#-license--acknowledgements)
-- [Contact](#-contact)
+- [Tech stack](#tech-stack)
+- [Requirements](#requirements)
+- [Install & Run](#install--run)
+- [Quick start](#quick-start)
+- [Usage notes](#usage-notes)
+- [Project structure](#project-structure)
+- [Module documentation](#module-documentation)
+- [Configuration](#configuration)
+- [Development](#development)
+- [Contributing](#contributing)
+- [License & Acknowledgements](#license--acknowledgements)
+- [Contact](#contact)
 
 ----
 
 ## 🎯 Features
 
-### 📊 Core Functionality
+### 🖼️ Core Functionality
 - PDF result processing: extract student records from university result PDFs (names, seat numbers, subject-wise marks, totals, percentage, result status).
 - Advanced analytics: class-level metrics, trends, distributions, and subject-wise insights.
 - Multi-format export: generate Excel, PDF, and CSV reports for sharing and archiving.
@@ -343,6 +343,7 @@ If you found this project helpful, please give it a ⭐️!
 ---
 
 <div align="center">
+
 
 
 
