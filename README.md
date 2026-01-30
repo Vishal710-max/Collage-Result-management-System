@@ -11,9 +11,9 @@ This system automates PDF result processing and provides powerful analytics tool
 ---
 
 ## Table of contents
-- [Features](#-features)
-- [Demo / Screenshots](#-demo--screenshots)
-- [Tech stack](#-techstack)
+- [Features](#features)
+- [Demo / Screenshots](#demo--screenshots)
+- [Tech stack](#tech-stack)
 - [Requirements](#requirements)
 - [Install & Run](#install--run)
 - [Quick start](#quick-start)
@@ -28,7 +28,7 @@ This system automates PDF result processing and provides powerful analytics tool
 
 ----
 
-## 🎯 Features
+## Features
 
 ### 🖼️ Core Functionality
 - PDF result processing: extract student records from university result PDFs (names, seat numbers, subject-wise marks, totals, percentage, result status).
@@ -51,7 +51,7 @@ This system automates PDF result processing and provides powerful analytics tool
 
 ---
 
-## 📊 Demo / Screenshots
+## Demo / Screenshots
 
 <div align="center">
  <table>
@@ -92,7 +92,7 @@ This system automates PDF result processing and provides powerful analytics tool
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 - Frontend: Streamlit
 - Language: Python 3.8+
 - Data extraction: pdfplumber (PDF parsing)
@@ -103,7 +103,7 @@ This system automates PDF result processing and provides powerful analytics tool
 
 ---
 
-## ✅Requirements
+## Requirements
 
 - Python 3.8 or higher
 - Internet connection (only needed for external resources if used)
@@ -126,7 +126,7 @@ Suggested packages (examples):
 
 ---
 
-## 🚀Install & Run
+## Install & Run
 
 1. Clone the repo:
 ```bash
@@ -159,7 +159,7 @@ Visit http://localhost:8501
 
 ---
 
-## ⚡Quick start
+## Quick start
 - Upload PDF: Go to Upload PDF page → select your university result PDF → click Process.
 - View results: Switch to Dashboard / Subject Analysis / Top Students to explore insights.
 - Search student: Use Student Search to find records by name or seat number.
@@ -167,14 +167,14 @@ Visit http://localhost:8501
 
 ---
 
-## ℹ️Usage notes
+## Usage notes
 - The PDF parser relies on consistent result formatting. If PDFs vary by college/university, you may need to adjust parsing rules and regex.
 - If marks extraction fails for some pages, try converting the PDF to a plain text-exportable version or updating the extraction patterns.
 - Exported reports preserve timestamps and include processed metadata for traceability.
 
 ---
 
-## 🏗️Project structure
+## Project structure
 ```bash
 college-result-management-system/
 ├── app.py                  # Main Streamlit application
@@ -196,7 +196,7 @@ college-result-management-system/
 
 ---
 
-## 📖 Module Documentation
+## Module Documentation
 
 ### 📤 Upload PDF Module
 File: `pages/upload_pdf.py`  
@@ -255,7 +255,7 @@ File: `pages/excel_report.py`
 
 ---
 
-## 🔧Configuration
+## Configuration
 
 ### Streamlit Configuration (`.streamlit/config.toml`)
 ```toml
@@ -280,7 +280,7 @@ export DEFAULT_THEME=light
 
 ---
 
-## 🧩Development
+## Development
 - Recommended workflow: create a feature branch for changes (e.g., `feature/pdf-parser-improvement`).
 - Add unit tests for parsing logic where possible (example: expected parsed output for sample PDFs).
 - Lint and format with `black` and optionally `flake8` for style consistency.
@@ -288,7 +288,7 @@ export DEFAULT_THEME=light
 
 ---
 
-## 🤝Contributing
+## Contributing
 Contributions are welcome:
 1. Fork the repository
 2. Create a feature branch: `git checkout -b feature/your-feature`
@@ -299,7 +299,7 @@ Please keep changes focused and testable for easier review.
 
 ---
 
-## 📝License & Acknowledgements
+## License & Acknowledgements
 - This project is provided for personal and educational use.
 - Acknowledgements:
   - Streamlit — UI framework
@@ -310,7 +310,7 @@ Please keep changes focused and testable for easier review.
 
 ---
 
-## 📬Contact
+## Contact
 
 <div align="center">
 
