@@ -8,6 +8,8 @@
 A comprehensive Streamlit web application for managing, analyzing, and visualizing college examination results.  
 This system automates PDF result processing and provides powerful analytics tools for educators and administrators.
 
+Live Link - 
+
 ---
 
 ## Table of contents
@@ -343,6 +345,7 @@ If you found this project helpful, please give it a ⭐️!
 ---
 
 <div align="center">
+
 
 
 
